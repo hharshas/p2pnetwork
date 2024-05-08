@@ -1,0 +1,20 @@
+{
+  "name": "ppusher",
+  "version": "1.0.0",
+  "description": "p2p audio sharing ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "devin",
+  "license": "ISC",
+  "dependencies": {
+    "cross-fetch": "^4.0.0",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "nodemon": "^3.1.0",
+    "path": "^0.12.7",
+    "uuid": "^9.0.1"
+  },
+  "type": "module"
+}
